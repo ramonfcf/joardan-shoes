@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;500;600;700&display=swap');
+@import url(_variaveis.css);
+@import url(_reset.css);
+
+header {
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
