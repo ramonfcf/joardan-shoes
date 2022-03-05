@@ -1,0 +1,25 @@
+.pirncipal {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.principal__titulo {
+    color: var(--black-light);
+    font-size: 32px;
+    font-weight: 600;
+
+    padding-top: 60px;
+    padding-bottom: 2rem;
+}
+
+.principal__texto {
+    color: var(--grey);
+    font-weight: 500;
+    font-size: 18px;
+
+    padding-bottom: 4rem;
+}
